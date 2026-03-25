@@ -1,6 +1,6 @@
 <?php
 
-header('Access-Control-Allow-Origin: https://cfsobral.github.io');
+header('Access-Control-Allow-Origin: https://claudiofsobral.github.io');
 header('Access-Control-Allow-Methods: GET, OPTIONS');
 header('Access-Control-Allow-Headers: Content-Type');
 header('Content-Type: application/json; charset=utf-8');
