@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const formAgendamento = document.getElementById("formAgendamento");
   const botaoAgendar = document.getElementById("btnAgendar") || formAgendamento.querySelector("button[type='submit']");
 
-  const API_BASE = "https://clinica-saude-backend-hpzl.onrender.com";
+  const API_BASE = "https://clinica-saude-backend-5lzm.onrender.com";
 
   campoMedico.value = medico;
   campoEspecialidade.value = especialidade;

@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const botaoConsultar = document.getElementById("btnConsultar");
   const resultado = document.getElementById("resultado");
 
-  const API_BASE = "https://clinica-saude-backend-hpzl.onrender.com";
+  const API_BASE = "https://clinica-saude-backend-5lzm.onrender.com";
 
   campoCpf.addEventListener("input", () => {
     let valor = campoCpf.value.replace(/\D/g, "");
