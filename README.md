@@ -18,7 +18,7 @@ Sistematização — Desenvolvimento de Soluções Tecnológicas
 
 Este projeto foi desenvolvido como parte da Sistematização do semestre letivo 2026/1, com o objetivo de construir uma solução tecnológica completa para uma Clínica de Estética fictícia. A solução contempla desde uma landing page estática até um sistema de agendamento com banco de dados e infraestrutura em containers.
 
-O escopo total abrange os Projetos 01, 02, 03 e 04 da especificação fornecida pelo professor, integrando tecnologias frontend (HTML, CSS, JavaScript), backend (PHP), banco de dados relacional (PostgreSQL) e containerização (Docker), com deploy realizado na plataforma Render.
+O escopo total abrange os Projetos 01, 03 e 04 da especificação fornecida pelo professor, integrando tecnologias frontend (HTML, CSS, JavaScript), backend (PHP), banco de dados relacional (PostgreSQL) e containerização (Docker), com deploy realizado na plataforma Render.
 
 ---
 
