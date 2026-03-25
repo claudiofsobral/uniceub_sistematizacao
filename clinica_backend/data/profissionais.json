@@ -1,0 +1,27 @@
+[
+  {
+    "nome": "Dr. Thomas Jeffrey Coleman",
+    "especialidade": "Dermatologia Estética",
+    "imagem": "img/image4.jpg"
+  },
+  {
+    "nome": "Dr. Robert Anthony Klein",
+    "especialidade": "Cirurgia Estética",
+    "imagem": "img/image6.jpg"
+  },
+  {
+    "nome": "Dra. Sandra Patricia Stevens",
+    "especialidade": "Estética Facial",
+    "imagem": "img/image5.jpg"
+  },
+  {
+    "nome": "Dra. Linda Catherine Brooks",
+    "especialidade": "Cosmetologia Clínica",
+    "imagem": "img/image3.jpg"
+  },
+  {
+    "nome": "Dra. Sarah Francine",
+    "especialidade": "Cirurgia Estética",
+    "imagem": "img/image7.jpg"
+  }
+]

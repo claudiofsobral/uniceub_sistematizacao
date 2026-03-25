@@ -1,0 +1,19 @@
+[
+  {
+    "medico": "Dr. Thomas Jeffrey Coleman",
+    "datas": ["2026-03-20", "2026-03-22", "2026-03-25"]
+  },
+  {
+    "medico": "Dr. Robert Anthony Klein",
+    "datas": ["2026-03-21", "2026-03-23"]
+  },
+  {
+    "medico": "Dra. Sandra Patricia Stevens",
+    "datas": ["2026-03-20", "2026-03-24"]
+  },
+  {
+    "medico": "Dra. Linda Catherine Brooks",
+    "datas": ["2026-03-22", "2026-03-25"]
+  },
+  { "medico": "Dra. Sarah Francine", "datas": ["2026-03-21", "2026-03-26"] }
+]

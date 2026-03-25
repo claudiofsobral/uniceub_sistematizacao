@@ -1,0 +1,23 @@
+[
+  {
+    "medico": "Dr. Thomas Jeffrey Coleman",
+    "especialidade": "Dermatologia Estética",
+    "nome": "Thomas Jefferson",
+    "cpf": "00117430413",
+    "data": "2026-03-20"
+  },
+  {
+    "medico": "Dra. Sandra Patricia Stevens",
+    "especialidade": "Estética Facial",
+    "nome": "Benjamin Franklin",
+    "cpf": "17061701177",
+    "data": "2026-03-24"
+  },
+  {
+    "medico": "Dra. Linda Catherine Brooks",
+    "especialidade": "Cosmetologia Clínica",
+    "nome": "George Washington",
+    "cpf": "22021743177",
+    "data": "2026-03-25"
+  }
+]

@@ -1,0 +1,33 @@
+services:
+  - type: web
+    name: clinica-saude-backend
+    env: docker
+    plan: free
+    branch: main
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    envVars:
+      - key: DB_HOST
+        fromDatabase:
+          name: clinica-saude-db
+          property: host
+
+      - key: DB_PORT
+        fromDatabase:
+          name: clinica-saude-db
+          property: port
+
+      - key: DB_NAME
+        fromDatabase:
+          name: clinica-saude-db
+          property: database
+
+      - key: DB_USER
+        fromDatabase:
+          name: clinica-saude-db
+          property: user
+
+      - key: DB_PASSWORD
+        fromDatabase:
+          name: clinica-saude-db
+          property: password
