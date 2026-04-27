@@ -8,26 +8,16 @@ services:
     dockerContext: .
     envVars:
       - key: DB_HOST
-        fromDatabase:
-          name: clinica-saude-db
-          property: host
+        value: ep-lingering-snow-amdfj4og.c-5.us-east-1.aws.neon.tech
 
       - key: DB_PORT
-        fromDatabase:
-          name: clinica-saude-db
-          property: port
+        value: 5432
 
       - key: DB_NAME
-        fromDatabase:
-          name: clinica-saude-db
-          property: database
+        value: neondb
 
       - key: DB_USER
-        fromDatabase:
-          name: clinica-saude-db
-          property: user
+        value: neondb_owner
 
       - key: DB_PASSWORD
-        fromDatabase:
-          name: clinica-saude-db
-          property: password
+        sync: false
